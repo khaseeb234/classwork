@@ -33,7 +33,7 @@
 # d4 = num1//1000
 #
 # print((d1*1000+d2*100+d3*10+d4)*2)
-num1 = int(input())
+# num1 = int(input())
 
 # if num1>0:
 #     print(">0")
@@ -49,7 +49,7 @@ num1 = int(input())
 #     print("нечетное число")
 
 
-name = input("Ваша имя")
+name = input("Ваша имя: ")
 
 if name=="Ivan":
     print("yes")
